@@ -1,0 +1,16 @@
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\bin\Debug\net5.0\ApplicationCash.exe
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\bin\Debug\net5.0\ApplicationCash.deps.json
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\bin\Debug\net5.0\ApplicationCash.runtimeconfig.json
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\bin\Debug\net5.0\ApplicationCash.runtimeconfig.dev.json
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\bin\Debug\net5.0\ApplicationCash.dll
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\bin\Debug\net5.0\ref\ApplicationCash.dll
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\bin\Debug\net5.0\ApplicationCash.pdb
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\obj\Debug\net5.0\ApplicationCash.csproj.AssemblyReference.cache
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\obj\Debug\net5.0\ApplicationCash.GeneratedMSBuildEditorConfig.editorconfig
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\obj\Debug\net5.0\ApplicationCash.AssemblyInfoInputs.cache
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\obj\Debug\net5.0\ApplicationCash.AssemblyInfo.cs
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\obj\Debug\net5.0\ApplicationCash.csproj.CoreCompileInputs.cache
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\obj\Debug\net5.0\ApplicationCash.dll
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\obj\Debug\net5.0\ref\ApplicationCash.dll
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\obj\Debug\net5.0\ApplicationCash.pdb
+B:\MAI\MAIProg\практика_блин\c# Практика№3\ApplicationCash\ApplicationCash\obj\Debug\net5.0\ApplicationCash.genruntimeconfig.cache
